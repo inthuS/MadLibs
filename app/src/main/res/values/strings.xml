@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="crush">Crush</string>
+    <string name="crush_story">There I was, [walking] home like I always do, when I saw [him].</string>
+    <string name="work">Work</string>
+    <string name="work_story">There I was, [walking] home like I always do, when I saw [him].</string>
+    <string name="school">School</string>
+    <string name="school_story">There I was, [walking] home like I always do, when I saw [him].</string>
+</resources>
